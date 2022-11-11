@@ -1,9 +1,14 @@
 # fuzzy_network_sensor
 
 Nowadays the number of smart devices being developed and implemented in home automation is constantly evolving and it is expected that these services and products will continue to grow during the coming years contributing to the Internet of Things (IoT). Firstly, due to domestic broadband improvements and powerful routers, and 5G. Secondly, due to the appearance of virtual assistants such as Alexa or Google Home. However, these systems rely on a router with an internet connection with robust Wi-Fi coverage. Also, another backward is that a large number of connected devices can saturate the domestic internet HUB which may affect the performance of the internet service at home.
+
 ESP32 MCU along with ESP-NOW wireless protocol, both made and developed by Espressif Systems, could be a solution to develop a mesh of smart home devices without the need to connect to a Wi-Fi router. 
-ESP-NOW wireless protocol can be a solution where an internet connection was not available. Other projects based on ESP8266 modules have been developed for low-power consumption solutions for self-sufficient devices through solar power [5], and for home monitoring systems [6]. In addition, other MCUs were considered for this project, such as the STM32 MCUs family developed by STMicroelectronics. 
+
+ESP-NOW wireless protocol can be a solution where an internet connection was not available. Other projects based on ESP8266 modules have been developed for low-power consumption solutions for self-sufficient devices through solar power, and for home monitoring systems. In addition, other MCUs were considered for this project, such as the STM32 MCUs family developed by STMicroelectronics. 
+
 The aim of this project is the design, build and testing of a wireless network based on ESP32 SoC (System on a chip), under ESP-NOW. Although the ESP32 can be used in many designs for different purposes, this project will develop a driver which provides a PWM signal output.
+
+
 
 
 Linggarjati, J. (2022) ‘Design and Prototyping of Temperature Monitoring System for Hydraulic Cylinder in Heavy Equipment using ESP32 with data logging and WiFi Connectivity’, IOP conference series. Earth and environmental science, 998(1). doi:10.1088/1755-1315/998/1/012042.
