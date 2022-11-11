@@ -1,7 +1,7 @@
 #  Programme for BOARD 1 HUB
 #  This MCU will receive data from BOARD 2 (sensors) and will send data to BOARD 3
 #  print builtin function is used along the programme to monitorise the lines on console
-#  script ver 2.12 - 17/07/2022
+#  script ver 2.12 - 11/11/2022
 
 import network
 import ssd1306
