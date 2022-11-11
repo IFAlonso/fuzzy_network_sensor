@@ -1,4 +1,4 @@
-# script for Sensor BOARD 2 - version 1.20 (07/07/2022)
+# script for Sensor BOARD 2 - version 1.20 (07/11/2022)
 
 import network
 import BME280
